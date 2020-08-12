@@ -1,0 +1,17 @@
+{
+  "name": "alejandro-sosa-albarran-backend",
+  "version": "0.0.1",
+  "description": "Backend para la web www.alejandrososa.com",
+  "main": "index.js",
+  "author": "Alejandro Sosa Albarran",
+  "license": "MIT",
+  "dependencies": {
+    "bcryptjs": "^2.4.3",
+    "body-parser": "^1.19.0",
+    "connect-multiparty": "^2.2.0",
+    "express": "^4.17.1",
+    "jwt-simple": "^0.5.6",
+    "moment": "^2.27.0",
+    "mongoose": "^5.9.28"
+  }
+}
